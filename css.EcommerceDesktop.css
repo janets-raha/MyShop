@@ -1,0 +1,330 @@
+/********************************************         RESPONSIVE LAYOUTS           *******************************************************/
+
+
+/* Tablet Landscape */
+@media screen and (max-width: 1060px) {
+    main { width:67%; }
+    header, footer { width:30%; margin-left:3%;}
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    main { width:100%; }
+    header, footer { width:100%; margin:0; border:none; }
+}
+/******** Responsive images *****************/
+img { max-width: 100%; height: auto; }
+
+
+/******* Responsive typography ************/
+/*html { font-size:100%; }
+
+@media (min-width: 640px) { body {font-size:1rem;} }
+@media (min-width:960px) { body {font-size:1.2rem;} }
+@media (min-width:1100px) { body {font-size:1.5rem;} } */
+
+/************************************************ FROM HERE? NON RESPONSIVE ********************************************/
+
+
+
+/**** la zone du contenu affiché qui est inclue dans le body ****/
+.Ecommerce---Desktop {
+
+  width: 1440px;
+
+  height: 1550px;
+
+  background-color: #fefee2;
+
+  margin: auto;
+
+}
+/**** la nav bar et ses éléments, de gauche à droite ****/
+.Top-Nav {
+
+  width: 1326px;
+
+  height: 71px;
+
+  object-fit: contain;
+
+  margin-left: 58px;
+
+  margin-right: 56px;
+
+}
+
+.Logo {
+
+  width: 71px;
+
+  height: 71px;
+
+  object-fit: contain;
+
+  margin-right: 35px;
+
+}
+
+.Home {
+
+  width: 41px;
+
+  height: 18px;
+
+  object-fit: contain;
+
+  font-family: Avenir;
+
+  font-size: 13px;
+
+  font-weight: 900;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  color: Black;
+
+  margin-right: 35px;
+
+}
+
+.Shop {
+
+  width: 36px;
+
+  height: 18px;
+
+  object-fit: contain;
+
+  font-family: Avenir;
+
+  font-size: 13px;
+
+  font-weight: 900;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  color: Black;
+
+  margin-right: 35px;
+
+}
+
+.Magazine {
+
+  width: 71px;
+
+  height: 18px;
+
+  object-fit: contain;
+
+  font-family: Avenir;
+
+  font-size: 13px;
+
+  font-weight: 900;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  color: Black;
+
+}
+
+.Right-Nav {
+
+  width: 108px;
+
+  height: 24px;
+
+  object-fit: contain;
+
+ display: inline;
+
+  float: right;
+
+  padding-top: 20px;
+
+}
+
+#id_login {
+
+height: 18px;
+
+object-fit: contain;
+
+font-family: Avenir;
+
+font-size: 13px;
+
+font-weight: 900;
+
+font-stretch: normal;
+
+font-style: normal;
+
+line-height: normal;
+
+letter-spacing: normal;
+
+text-align: right;
+
+color: Black;
+}
+
+.Cart-Button {
+
+  width: 24px;
+
+  height: 24px;
+
+  object-fit: contain;
+}
+
+
+/******** La barre de recherche ***********/
+
+.Search-Field {
+    width: 966px;
+
+    height: 46px;
+
+    padding-top: 29px;
+
+    padding-left: 74px;
+
+    padding-right: 46px;
+
+    padding-bottom: 68px;
+}
+
+.searchInput {
+    width: 966px;
+
+    height: 46px;
+}
+
+#dropdownMenuButton {
+    float: right;
+}
+
+/***** les Filtres de la recherche **********/
+.row {
+  margin-top: 30px;
+}
+
+.dropdown-filter label{
+    font-weight: 400;
+}
+
+.dropdown-filter {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    cursor: pointer;
+
+  }
+
+
+.dropdown-actions {
+  margin-top: 5px;
+  margin-left: 10px;
+  }
+
+/************ Les tuiles d'images et leur contenus *******/
+.Content {
+
+  width: 1326px;
+
+  height: 734px;
+
+  object-fit: contain;
+
+}
+
+.Row-1 {
+
+  width: 1326px;
+
+  height: 346px;
+
+  object-fit: contain;
+
+}
+
+.Product-Name {
+
+  width: 191px;
+
+  height: 22px;
+
+  object-fit: contain;
+
+  font-family: Avenir;
+
+  font-size: 16px;
+
+  font-weight: 900;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  color: Black;
+
+}
+
+.Filter {
+    width: 300px;
+
+    height: 342px;
+
+    padding-left: 58px;
+
+    object-fit: contain;
+
+}
+
+.Row-2 {
+
+  width: 1326px;
+
+  height: 346px;
+
+  object-fit: contain;
+
+}
+
+
+.pagination {
+    margin-left: 58px;
+    padding-top: 60px;
+}
+
+.signature {
+	float: right;
+	margin-right: 56px;
+}

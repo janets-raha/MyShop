@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1326" height="71" viewBox="0 0 1326 71">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#22232B" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600">
+            <text transform="translate(113 27)">
+                <tspan x="83" y="13">SHOP</tspan>
+            </text>
+            <text transform="translate(113 27)">
+                <tspan x="161" y="13">MAGAZINE</tspan>
+            </text>
+            <text transform="translate(113 27)">
+                <tspan x="0" y="13">HOME</tspan>
+            </text>
+        </g>
+        <g>
+            <text fill="#22232B" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(1218 21)">
+                <tspan x="66.348" y="16">LOGIN</tspan>
+            </text>
+            <g stroke="#131313" stroke-width="2" transform="translate(1218 21)">
+                <path d="M0 0L2.727 3.29 2.727 13.161 1.091 17 24 17"/>
+                <path d="M3 3L22 3 18.743 13 3 13"/>
+                <circle cx="3" cy="22" r="2" stroke-linecap="square"/>
+                <circle cx="21" cy="22" r="2" stroke-linecap="square"/>
+            </g>
+        </g>
+        <path fill="#1B1B1B" d="M0 0H71V71H0z"/>
+        <path fill="#FFF" d="M36 42v5H24v-5h12zm12-9v5H24v-5h24zm0-9v5H24v-5h24z"/>
+    </g>
+</svg>

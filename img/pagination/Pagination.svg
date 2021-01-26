@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="722" height="42" viewBox="0 0 722 42">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#22232B" d="M0 0H42V42H0z"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600">
+            <tspan x="17.652" y="25">1</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(68)">
+            <tspan x="17.652" y="26">2</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(340)">
+            <tspan x="17.652" y="26">6</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(136)">
+            <tspan x="17.652" y="26">3</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(408)">
+            <tspan x="17.652" y="26">7</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(204)">
+            <tspan x="17.652" y="26">4</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(476)">
+            <tspan x="17.652" y="26">8</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(272)">
+            <tspan x="17.652" y="26">5</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(544)">
+            <tspan x="17.652" y="26">9</tspan>
+        </text>
+        <text fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" transform="translate(612)">
+            <tspan x="13.804" y="26">10</tspan>
+        </text>
+        <g fill="#383B48" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600">
+            <text transform="translate(680)">
+                <tspan x="17.171" y="26">&gt;</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

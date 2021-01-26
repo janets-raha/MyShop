@@ -1,0 +1,103 @@
+* {
+    margin: 20px 20px 20px 20px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(https://i2.wp.com/files.123freevectors.com/wp-content/original/114550-turquoise-and-white-diagonal-stripes-background-vector.jpg?w=800&q=95);
+    display:inline-block;
+    /* background: radial-gradient(1.5em 6.28571em at 1.95em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(1.5em 6.28571em at -0.45em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 1.5em 5.5em, radial-gradient(2.3em 4.57143em at 2.99em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(2.3em 4.57143em at -0.69em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0.3) 55%, rgba(255, 255, 255, 0) 55%) 2.3em 4em, radial-gradient(3.5em 6.28571em at 4.55em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 0 0, radial-gradient(3.5em 6.28571em at -1.05em, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 50%, rgba(255, 255, 255, 0.25) 55%, rgba(255, 255, 255, 0) 55%) 3.5em 5.5em, radial-gradient(#15ffa5, #00ced1);
+  background-color: mediumspringgreen;
+  background-size: 1.5em 11em, 1.5em 11em, 2.3em 8em, 2.3em 8em, 3.5em 11em, 3.5em 11em, 100% 100%;
+  background-repeat: repeat; */
+}
+
+
+.body {
+
+    display:inline-block;
+    
+}
+.h4 {
+    text-align: center;
+}
+
+
+
+/* partie admin */
+
+.accueilAdmin {
+    height:1px;
+    display:inline-block;
+}
+
+.accueilAdmin > ul{
+    margin:0;
+    padding: 0;
+    vertical-align: middle;
+    
+}
+
+.accueilAdmin > ul > li{
+    list-style-type: none;
+    display:inline-block;
+    padding:0 5px 0 0;
+    vertical-align: middle;
+    line-height: 10px;
+  }
+
+.button {
+    background:url(img/button.gif);
+    display:block;
+    color:#555555;
+    font-weight:bold;
+    height:30px;
+    line-height:29px;
+    margin-bottom:14px;
+    text-decoration:none;
+    width:380px;
+    
+  
+}
+
+.add{
+    background:url(img/add.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+    text-align: center;
+}
+
+.lens{
+    background:url(img/lens.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+    text-align: center;
+}
+
+.user{
+    background:url(img/user.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+    text-align: center;
+}
+
+.info{
+    background:url(img/info.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+    text-align: center;
+}
+
+.delete{
+    background:url(img/delete.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+    text-align: center;
+}
+
+.footer {
+
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+
+}
